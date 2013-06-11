@@ -1,0 +1,40 @@
+name: DarkCommands
+main: RageQuit.RageQuit
+version: 1.5.0
+commands:
+   RageQuit:
+      description: Makes a person ragequit
+      usage: /ragequit
+      permission: darkcommand.ragequit
+   RQ:
+      description: Alias to RageQuit
+      usage: /rq
+      permission: darkcommand.ragequit
+   Hug:
+      description: Hugs a person
+      usage: /hug <Player_Name>
+      permission: darkcommand.hug
+   Kiss:
+      description: Kisses a person
+      usage: /kiss <Player_Name>
+      permission: darkcommand.kiss
+   BitchSlap:
+      description: BitchSlaps a player
+      usage: /bitchslap <Player_Name>
+      permission: darkcommand.bitchslap
+   cry:
+      description: Cry
+      usage: /cry
+      permission: darkcommand.cry
+   slap:
+      description: Slap a player
+      usage: /slap <Player_Name>
+      permission: darkcommand.bitchslap
+   chillpill:
+      description: Take a chillpill!
+      usage: /chillpill
+      permission: darkcommand.chillpill
+   ctp:
+      description: Cool teleport
+      usage: /ctp <Player_Name>
+      permission: darkcommand.cooltp
