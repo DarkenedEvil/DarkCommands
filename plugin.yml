@@ -1,6 +1,6 @@
 name: DarkCommands
 main: RageQuit.RageQuit
-version: 1.5.0
+version: 1.5.1
 commands:
    RageQuit:
       description: Makes a person ragequit
